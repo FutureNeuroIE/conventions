@@ -67,10 +67,11 @@ on various topics. Our channel names should:
 Nested channel naming is useful for designating teams to work on a specific
 project or stage of project that has sibling channels, such as two different studies,
 which are category `studies`, or five different analysis-focused channels, which are
-`analysis`-categorized.
+`analysis`-categorized. Using prefixes like this has the additional benefit that 
+channels will automatically sort by category in workspace navigation. 
 
 - :white_check_mark: `studies_twitter-survey` or `analysis_emotion-amplification`
-- :no_entry_sign: `studies-twitter-survey` or `emotion-amplification_analysis`
+- :no_entry_sign: `twitter-survey-study` or `emotion-amplification_analysis`
 
 
 ## GitHub
