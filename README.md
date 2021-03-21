@@ -14,7 +14,7 @@ Amazon S3 bucket names, RMarkdown file names, and so many more.
 
 <!-- toc -->
 
-- [Tool Conventions](#tool-conventions)
+- [Software Tools](#software-tools)
   * [Slack](#slack)
     + [Channel Names](#channel-names)
       - [Use all lowercase letters.](#use-all-lowercase-letters)
@@ -28,12 +28,14 @@ Amazon S3 bucket names, RMarkdown file names, and so many more.
       - [Use hyphenated spaces.](#use-hyphenated-spaces-1)
       - [Use versionless phrases.](#use-versionless-phrases)
     + [Branch Names](#branch-names)
-- [Code Conventions](#code-conventions)
+- [Programming Languages](#programming-languages)
+  * [R](#r)
   * [JavaScript](#javascript)
+  * [Python](#python)
 
 <!-- tocstop -->
 
-# Tool Conventions
+# Software Tools
 
 ## Slack
 
@@ -73,7 +75,6 @@ channels will automatically sort by category in workspace navigation.
 - :white_check_mark: `studies_twitter-survey` or `analysis_emotion-amplification`
 - :no_entry_sign: `twitter-survey-study` or `emotion-amplification_analysis`
 
-
 ## GitHub
 
 ### Repository Names
@@ -109,7 +110,11 @@ contain bugs, errors, badly-written code, etc. In GitHub, the `main` branch is
 the default branch (or `master` if created prior to late 2020; update the default
 to `main` if so, [see why here](https://github.com/github/renaming)).
 
-# Code Conventions
+# Programming Languages
+
+## R
+
+Coming soon.
 
 ## JavaScript
 
@@ -117,3 +122,7 @@ Anytime you use JavaScript, you should follow tried and true code style guidelin
 and especially so when that code is shared. While we will adopt a set of lab-specific
 conventions for writing JavaScript over time, arguably the best style guide is the
 [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/).
+
+## Python
+
+Coming soon.
