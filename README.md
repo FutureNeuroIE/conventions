@@ -7,7 +7,7 @@ working together on projects more fun, efficient, and effective.
 
 Scientists are familiar with and use many conventions in their everyday work,
 including citation style, significant figures, and confidence intervals. In the same
-way, we hope to establish conventions for managing teams, projects, code to facilitate
+way, we hope to establish conventions for managing teams, projects, and code to facilitate
 digital collaboration (e.g., within a lab), effective documentation, and open science.
 
 ## Software Tools
