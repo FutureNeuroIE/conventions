@@ -1,16 +1,14 @@
 # Conventions
 
-**NOTE: Document in progress. Please make a feature request for things you 
-would like to see here.**
+Welcome to the Start Your Lab guide for _conventions_, a collection of
+helpful guidelines to make teamwork more straightforward.
+When members of a lab can agree to and follow conventions, they often find
+working together on projects more fun, efficient, and effective.
 
-Conventions are helpful practices that teams follow to write code together. There are
-many types of conventions that a lab strives to adhere to, such as _naming conventions_
-or _data management conventions_.
-
-The **easiest** conventions are **naming** conventions. We agree to a pattern of naming
-for any given topic of work we do because consistent, predictable names help us find
-what we're looking for. Named entities that we share are everywhere: Slack channels, GitHub repositories,
-Amazon S3 bucket names, RMarkdown file names, and so many more.
+Scientists are familiar with and use many conventions in their everyday work,
+including citation style, significant figures, and confidence intervals. In the same
+way, we hope to establish conventions for managing teams, projects, code to facilitate
+digital collaboration (e.g., within a lab), effective documentation, and open science.
 
 ## Software Tools
 
@@ -22,3 +20,12 @@ Amazon S3 bucket names, RMarkdown file names, and so many more.
 - [R](/programming-languages/r)
 - [JavaScript](/programming-languages/javascript)
 - [Python](/programming-languages/python)
+
+## Contributing
+
+**NOTE: Repository in progress.** Please take out an issue request specific topics or
+conventions you would like to see in here.
+
+## Support
+
+Coming soon.
