@@ -1,3 +1,0 @@
-# JavaScript Conventions
-
-Coming soon.

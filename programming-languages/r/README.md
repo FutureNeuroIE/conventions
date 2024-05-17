@@ -1,3 +1,0 @@
-# R Conventions
-
-Coming soon.
