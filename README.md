@@ -16,7 +16,7 @@ digital collaboration (e.g., within a lab), effective documentation, and open sc
 
 ## README files
 
-- [README example](/readme-conventions/template)
+- [README example](/readme-conventions)
 
 - [Useful README generator](https://readme.so/editor)
 
