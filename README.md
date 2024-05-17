@@ -13,19 +13,4 @@ digital collaboration (e.g., within a lab), effective documentation, and open sc
 ## Software Tools
 
 - [GitHub](/software-tools/github)
-- [Slack](/software-tools/slack)
 
-## Programming Languages
-
-- [R](/programming-languages/r)
-- [JavaScript](/programming-languages/javascript)
-- [Python](/programming-languages/python)
-
-## Contributing
-
-**NOTE: Repository in progress.** Please take out an issue request specific topics or
-conventions you would like to see in here.
-
-## Support
-
-Coming soon.
