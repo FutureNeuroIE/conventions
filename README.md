@@ -10,7 +10,11 @@ including citation style, significant figures, and confidence intervals. In the 
 way, we hope to establish conventions for managing teams, projects, and code to facilitate
 digital collaboration (e.g., within a lab), effective documentation, and open science.
 
-## Software Tools
+## Github conventions
 
 - [GitHub](/software-tools/github)
+
+## Coding best practices for researchers
+
+- [Article from EMBL-EBI](https://biomadeira.github.io/2023-01-11-coding-best-practices)
 
