@@ -14,7 +14,17 @@ digital collaboration (e.g., within a lab), effective documentation, and open sc
 
 - [GitHub](/software-tools/github)
 
+## README files
+
+- [README example](/readme-conventions/template)
+
+- [Useful README generator](https://readme.so/editor)
+
 ## Coding best practices for researchers
 
 - [Article from EMBL-EBI](https://biomadeira.github.io/2023-01-11-coding-best-practices)
+
+
+
+
 
