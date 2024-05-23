@@ -12,7 +12,7 @@ digital collaboration (e.g., within a lab), effective documentation, and open sc
 
 ## Github conventions
 
-- [GitHub](/software-tools/github)
+- [GitHub naming](/software-tools/github)
 
 ## README files
 
